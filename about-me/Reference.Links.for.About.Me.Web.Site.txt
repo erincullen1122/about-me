@@ -1,0 +1,27 @@
+
+
+ABOUT THIS TXT REFERENCE PAGE: 
+	This page lists where I looked up help/references to how I put these pages together (in addition to what we reviewed in class). It will help me remember what I added/why and where I saw info on how to do it for later projects/future referencing outside class. 
+
+
+ASSIGNMENT PAGES (CSS, HTML): 
+	MARGIN BORDERS: 
+	IMG FLOAT: http://www.w3schools.com/css/css_float.asp
+	NAV: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav 
+	<UL> Tag Info/refresher after class: http://stackoverflow.com/questions/13534588/ul-tag-not-closed
+	DIV LAYOUTS: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Layout 
+	CLASS ID: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS <<I need more work on this, still a bit confusing/new>> 
+	SELECTORS: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors <<I need more work on this, still a bit confusing/new>> 
+	HOW MANY CSS PAGES IN ONE WEB SITE: http://stackoverflow.com/questions/2874194/should-i-use-more-than-one-css-sheet 
+	PADDING https://developer.mozilla.org/en-US/docs/Web/CSS/padding-top (P.S. SO COOL when I got this to work 1st try -- woot!)
+
+
+ADDITIONAL (not part of assigment, but a few of the many things I looked up as part of homework): 
+	HTML Tags/Attributes in HTML 5: https://wiki.whatwg.org/wiki/Presentational_elements_and_attributes
+	TEXT INSERTED DIRECTLY IN BORDERS: <didnt get this to work, maybe JScript needed?> https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Layout 
+
+
+THINGS TO WORK ON: 
+	DIV ID
+	DIV CLASS
+	FRAMES/TABLES/LAYOUTS!!!!!

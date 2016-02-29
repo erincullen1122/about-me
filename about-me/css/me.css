@@ -1,0 +1,86 @@
+
+/*content format on page*/
+
+body { 
+	margin: 0px; 
+	border-top: solid #000 50px;	
+	border-width: 50px;
+	background-color: #FFF;
+	padding-top: 2%;
+	font-family: 'Special Elite', cursive; 
+	font-size: 20px; 
+	letter-spacing: 0.1em; 
+	text-align: center;
+}	
+
+#container {
+	
+}
+
+
+#topnav {
+	font-family: 'Special Elite', cursive; 
+	font-size: 18px; 
+	letter-spacing: 0.1em; 
+	text-align: center;
+}
+
+
+#header {
+	font-family: 'Special Elite', cursive; 
+	font-size: 25px; 
+	letter-spacing: 0.1em; 
+	text-align: center;
+}
+
+#aboutmecontent {
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-size: 25px; 
+	letter-spacing: 0.1em; 
+	text-align: left;
+	padding-left: 10%;
+	padding-bottom: 3%
+}
+
+
+/*Leia Bowie image placement on page* question if i dont include img the hr line moves up one, is the img syntax required?*/ 
+#leia img {
+	float: right;
+	padding-right:10%;
+	padding-left: 3%;
+}
+
+
+#portfolio {
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-size: 25px; 
+	letter-spacing: 0.1em; 
+	text-align: left;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 195%
+}
+
+
+#resume img {
+	width: 60%;
+	float: right;
+	padding-right:1%;
+}
+
+
+#pix img {
+	width: 25%; 
+	float: left;
+}
+
+
+#footer {
+	text-align: center;	
+	padding-top: 2%;
+	background-color:  rgba(0,76,153,.10);
+	padding-bottom: 2.5%;
+}
+				
+
+
